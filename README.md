@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Cypher
+- 👋 Hi, I’m Sypher
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning about IT
 - ⚡ Fun fact: sharks does not have bones
