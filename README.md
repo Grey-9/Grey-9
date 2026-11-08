@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sypher
+- 👋 Hi, I’m Grey
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning about IT
 - ⚡ Fun fact: sharks does not have bones
